@@ -1,0 +1,14 @@
+{
+  "name": "course_work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-sequential.js",
+  "scripts": {
+    "start": "node index.js",
+    "test-seq": "node test-sequential.js",
+    "test-par": "node dijkstra.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Maksymenko",
+  "license": "MIT"
+}
